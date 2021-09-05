@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAVKIAEZFW6V3XLQXB
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/365609404781/ec2-s3-sqs-redis-queue
